@@ -3,8 +3,8 @@
   <Parameters>
     <Parameter Name="EventsPlatform.OnSite.Web_InstanceCount" Value="-1" />
     <Parameter Name="EventsPlatform.OnSite.Web_DnsName" Value="api-onsite.events.thuzi.com" />
-    <Parameter Name="EventsPlatform.OnSite.Web_SSL_SECRET_STORE_APP_ID" Value="" />
-    <Parameter Name="EventsPlatform.OnSite.Web_SSL_SECRET_STORE_URI" Value="" />
-    <Parameter Name="EventsPlatform.OnSite.Web_SSL_CERT_NAME" Value="" />
+    <Parameter Name="EventsPlatform.OnSite.Web_SSL_SECRET_STORE_APP_ID" Value="34f92609-d201-400c-8fb9-ab803e5f6a1b" />
+    <Parameter Name="EventsPlatform.OnSite.Web_SSL_SECRET_STORE_URI" Value="https://ep-cluster-production-kv.vault.azure.net/" />
+    <Parameter Name="EventsPlatform.OnSite.Web_SSL_CERT_NAME" Value="events-domain-wildcard" />
   </Parameters>
 </Application>
