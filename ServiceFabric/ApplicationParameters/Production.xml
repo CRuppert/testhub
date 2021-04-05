@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application Name="fabric:/EventsPlatform.OnSite" xmlns="http://schemas.microsoft.com/2011/01/fabric" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Parameters>
+    <Parameter Name="EventsPlatform.OnSite.Web_InstanceCount" Value="-1" />
+    <Parameter Name="EventsPlatform.OnSite.Web_DnsName" Value="api-onsite.events.thuzi.com" />
+    <Parameter Name="EventsPlatform.OnSite.Web_SSL_SECRET_STORE_APP_ID" Value="" />
+    <Parameter Name="EventsPlatform.OnSite.Web_SSL_SECRET_STORE_URI" Value="" />
+    <Parameter Name="EventsPlatform.OnSite.Web_SSL_CERT_NAME" Value="" />
+  </Parameters>
+</Application>
